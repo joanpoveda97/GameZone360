@@ -1,16 +1,51 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# GameZone 360
 
-Currently, two official plugins are available:
+Proyecto desarrollado para la asignatura Ingeniería Web 2.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Descripción
 
-## React Compiler
+GameZone 360 es una página web informativa sobre
+videojuegos. Permite conocer diferentes categorías,
+juegos destacados y novedades.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- React
+- Bootstrap
+- HTML y JSX
+- CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Secciones de la página
+
+- Inicio
+- Categorías
+- Juegos destacados
+- Novedades
+- Pie de página
+
+## Instalación y ejecución
+
+1. Descargar el proyecto desde GitHub.
+2. Abrir la carpeta en Visual Studio Code.
+3. Abrir la terminal.
+4. Ejecutar:
+
+   npm install
+
+5. Iniciar el proyecto:
+
+   npm run dev
+
+6. Abrir en el navegador la dirección local
+   que aparece en la terminal.
+
+## Diseño responsive
+
+La página utiliza Bootstrap para adaptarse
+a pantallas de computadores y celulares.
+
+## Autor
+
+Proyecto académico de Ingeniería Web 2.
